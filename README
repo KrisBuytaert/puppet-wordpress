@@ -1,0 +1,10 @@
+
+
+Requires puppet-vhost  
+
+Makes the appropriate dirs and populates the wp-config.php file.
+
+Doesn't manage databases.
+Doesn't manage modules.
+
+
